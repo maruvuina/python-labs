@@ -1,2 +1,2 @@
-# python-master-labs
+# python-labs
 The Python language in an industrial environment
